@@ -3,7 +3,8 @@
 Nombre: Augusto Yañez.
 Comisión: K1023.
 
-Resultado g++ -v: 
+Resultado g++ -v:   
+
 Using built-in specs.
 COLLECT_GCC=C:\MinGW\bin\g++.exe
 COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe
