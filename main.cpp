@@ -1,11 +1,11 @@
 #include <iostream>
-#include <string>  // importante para usar strings
+#include <string> 
 using namespace std;
 
 int main() {
-    string nombre, apellido; // Definimos las variables como strings
+    string nombre, apellido; 
     nombre = "Augusto";
-    apellido = "Yañez"; // Asignamos un valor a la variable nombre
+    apellido = "Yañez"; 
     cout << "Hola " << nombre<<" "<< apellido << endl;
     return 0;
 }
